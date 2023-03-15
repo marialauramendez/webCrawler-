@@ -16,7 +16,7 @@ To use the multi-threaded parallel web crawler, follow these steps:
 
     bash
 
-git clone https://github.com/your-username/marialauramendez/webCrawler.git
+git clone https://github.com/marialauramendez/webCrawler-.git
 
 Install the dependencies and build the project using Maven:
 
